@@ -1,0 +1,10 @@
+[
+    [
+        "nat-0a81e4cc827f2144d",
+        "available"
+    ]
+]
+[]
+[
+    "712607540981.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/syaza"
+]
