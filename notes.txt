@@ -1,9 +1,0 @@
-Domain: nurinyazid.my
-Cloudflare nameserver: 
-leanna.ns.cloudflare.com.
-jeff.ns.cloudflare.com.
-URL pages.dev protfolio awam: https://syazayazid.github.io/
-Custom Domain: syaza.nurinyazid.my (public repo)
-Private repo: nurinyazid.my
-
-
