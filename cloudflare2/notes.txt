@@ -1,0 +1,6 @@
+1. Create Security Group to access internet for port HTTP and HTPPS
+2. Create EC2 with security group and assign elastic IP address
+3. Assign EC2 ip address to subdomain in Cloudflare
+4. Create tunnel in Cloudflare using zero trust function in cloudflared.
+5. Create private EC2 with custom VPC and NAT Gateway 
+6. Install Cloudflare in EC2, install nginx and assign subdomain. 
