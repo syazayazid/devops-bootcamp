@@ -1,0 +1,2 @@
+IMAGE                    ID             DISK USAGE   CONTENT SIZE   EXTRA
+devops-bootcamp-app:v1   72b82d876e22        104MB         31.2MB    U
