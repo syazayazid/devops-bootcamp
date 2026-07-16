@@ -1,0 +1,12 @@
+Address ECR images: 712607540981.dkr.ecr.ap-southeast-1.amazonaws.com
+
+
+List of network in Docker
+NETWORK ID     NAME      DRIVER    SCOPE
+40979692f808   arena     bridge    local
+ad5ce04c8bf5   bridge    bridge    local
+28059e3beef3   host      host      local
+cbe898e11d18   none      null      local
+List of volume in docker
+DRIVER    VOLUME NAME
+local     me
