@@ -1,0 +1,2 @@
+docker compose up -d #hidupkan seluruh arena
+docker compose down #padaa semua; volume me kekal
