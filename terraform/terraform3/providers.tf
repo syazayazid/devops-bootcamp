@@ -6,7 +6,7 @@ terraform {
       version = "~> 6.0"
     }
   }
-    backend "s3" {
+  backend "s3" {
     bucket       = "bootcamp-2026-syaza"
     key          = "terraform3/terraform.tfstate"
     region       = "ap-southeast-1"
