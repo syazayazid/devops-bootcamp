@@ -31,3 +31,4 @@ module "my_sg" {
   }
 
   tags = { Name = "tf-vpc-sg" }
+}
