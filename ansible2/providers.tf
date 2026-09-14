@@ -14,7 +14,7 @@ terraform {
 
   backend "s3" {
     bucket       = "bootcamp-2026-syaza"
-    key          = "ansible1/terraform.tfstate"
+    key          = "ansible2/terraform.tfstate"
     region       = "ap-southeast-1"
     use_lockfile = true
   }
