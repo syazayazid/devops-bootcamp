@@ -24,4 +24,4 @@ provider "aws" {
   region = "ap-southeast-1"
 }
 
-data "aws_caller_identity" "my_account" {}
+data "aws_caller_identity" "my_account" {

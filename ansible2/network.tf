@@ -10,4 +10,3 @@ module "my_vpc" {
 
   map_public_ip_on_launch = true
 
-}

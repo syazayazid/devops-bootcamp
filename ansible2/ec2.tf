@@ -34,4 +34,3 @@ module "node2" {
   key_name               = "Bootcamp"
   tags                   = { Name = "node2" }
   root_block_device = { size = 16 }
-}

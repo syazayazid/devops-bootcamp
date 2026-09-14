@@ -35,4 +35,4 @@
         name: nginx
         state: restarted
     - name: Echo Task
-      command: echo "task"
+      command: echo "task
